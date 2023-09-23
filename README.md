@@ -12,8 +12,7 @@ Djot is a Javascript and React playground, tool, and utility that can enhance yo
 
 ## Download
 
-- OSX (Apple Silicone): [Download](...)
-- OSX (Intel): [Download](...)
+- OSX: [Download](https://github.com/elis/djot/releases/download/v0.4.2/Djot_23.9.21-730.dmg)
 - Windows - Coming Soon
 - Linux - Coming Soon
 - Web - Coming Soon
